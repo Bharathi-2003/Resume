@@ -1,0 +1,155 @@
+html{
+	height:100%;
+	width:70%;
+	margin-left:30%;
+	margin-right:30%;
+}
+
+h2{
+	font-size:35px;
+}
+img{
+	height:auto;
+	width:100px;
+}
+.head{
+	text-align: center;
+
+}
+div p{
+	display:inline-block;
+	font-weight:bold;
+	font-size:20px;
+}
+
+section#skill{
+	font-size:18px;
+	display:flex;
+	justify-content:space-around;
+}
+
+.about{
+	font-weight:bold;
+}
+.para{
+	text-align:center;
+	font-size:18px;
+	color:gray;
+	
+}
+.para-1{
+	text-align:center;
+	font-size:40px;
+	color:white;
+	
+}
+.para-2{
+	text-align:center;
+	font-size:18px;
+	color:white;
+}
+
+
+
+
+section#paragraph{
+	padding:20px;
+	border:1px solid;
+	background-color:black;
+	
+}
+.center{
+	color:white;
+	margin: auto;
+  width: 30%;
+  border: 3px solid white;
+  padding: 10px;
+  text-align:center;
+}
+div.skill{
+	display:flex;
+	justify-content:space-evenly;
+}
+div img{
+	height:auto;
+	width:50px;
+	padding-right:10px;
+}
+#photo{
+	display:flex;
+	justify-content:space-around;	
+}
+
+/*div.skill{
+	display:flex;
+	justify-content:space-around;
+}
+div img{
+	height:40px;
+	width:auto;
+	padding-right:10px;	
+}*/
+
+	
+
+.education-1{
+	font-size:16px;
+    text-align:leftwards;
+}
+#teams.team-1.team-2.team-3{
+	display:inline-block;
+
+}
+
+.team .team-3{
+	font-size:16px;
+	color:gray;
+}
+.team-1{
+	font-size:20px;
+	display:flex;
+	justify-content:space-between;
+}
+.team-2{
+	font-size:22px;
+	font-weight:bold;
+}
+span{
+	background-color:gray;
+	font-weight:bold;
+	display:flex;
+	justify-content:right;
+	border:1px solid gray;
+	padding-left:5%;
+	padding-right:5%;
+}
+.project{
+	font-size:25px;
+	font-weight:bold;
+}
+
+#Brief{
+	text-align:left-side;
+	padding-left-side:50px;
+}
+.tech{
+	color:gray;
+	font-size:18px;
+	text-align:leftwards;
+}
+.tech-1{
+	color:gray;
+	font-size:20px;
+	text-align:leftwards;
+}
+.contacts{
+	display:flex;
+	justify-content:space-around;
+	height:auto;
+	width:50px;
+	padding-right:30px;
+
+}
+p{
+	font-size:20px;
+}
